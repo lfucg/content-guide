@@ -18,3 +18,20 @@ In general, avoid unnecessary capitals. Use a capital letter only if you can jus
 > _The director called the meeting for 2 p.m. today._
 
 > _The chief administrative officer, Lindsay Smith, spoke to the press earlier today._
+
+### Departments and divisions
+
+Capitalize the full proper names of governmental agencies, departments and offices: The Division of Parks & Recreation, the Department of General Services, the Office of Internal Audit
+
+On second reference, **do not capitalize** these words when used alone to refer to that specific group.  
+> _“The Division of Water Quality is located in the Tate Building. This division provides wastewater treatment and stormwater management to Lexington.”_
+
+Retain capital names for the name of a governmental body if its formal name is flipped to delete the word “of.”
+> *	_the Finance Department_
+> *	_the Department of Finance_
+
+Lowercase department and division in plural uses but capitalize the proper name element: _the departments of Finance and General Services._ 
+
+Lowercase the word division and department whenever they stand alone.
+
+Do not abbreviate division or department in any usage. 
