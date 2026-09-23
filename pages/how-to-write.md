@@ -4,15 +4,19 @@ layout: default
 title: How to write for the website
 ---
 
-All content on the City’s website must be written at or below a fifth grade reading level. 
+All content on the City’s website must be written at or below a eight-grade reading level. 
 
 You can paste your text into the <a href="http://www.hemingwayapp.com/">Hemingway Editor</a> to check readability.
 
 **Content principles**
 
+Lexingotnky.gov follows the <a href="https://www.apstylebook.com/">AP Stylebook.</a> All content in the LFUCG content guide has been created using the AP Stylebook.
+
+**Content principles**
+
 > 1.	_Start with people_ – Talk to your readers directly. Tell them what they need to do and use words they use.
 > 2.	_Make it easy_ – Make it simple for our residents to interact with us. Hide the complexity of government and our processes. Only give the user the information they need at that time.
-> 3.	_Write for everyone_ – Write simple. Use plain English. Check to make sure your writing is at or below a fifth grade reading level. 
+> 3.	_Write for everyone_ – Write simple. Use plain English. Check to make sure your writing is at or below a eighth-grade reading level. 
 > 4.	_Earn trust_ – Keep the website current and accurate.
 > 5.	_Hold ourselves accountable_ – Revisit every page every year. Look at popular pages and services more frequently. Use data to continually improve the site. 
 
@@ -156,11 +160,11 @@ Using "you" and "we" should prevent the need to use pronouns. If you can’t avo
 
 **Readability**
 
-Your writing must be at or below a fifth grade reading level.
+Your writing must be at or below a eighth–grade reading level.
 
 People who read English as a second language will have a better chance of understanding your writing. Anyone stressed or in a rush will also have a better chance of understanding what you’ve written.
 
-If you write at a fifth grade level, your writing is easier to translate. Remember to use the Hemingway Editor to check the reading level.
+If you write at a eighth-grade level, your writing is easier to translate. Remember to use the Hemingway Editor to check the reading level.
 
 Do not use i.e., e.g. or etc. Because these are Latin terms are not plain English, they are not easily understood by everyone. They are also difficult to translate. Because of the periods, they take visual prominence in your sentence, when they are not important words. Screen readers also pronounce these terms unpredictably.
 
