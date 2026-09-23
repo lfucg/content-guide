@@ -8,7 +8,7 @@ All content on the City’s website must be written at or below a eight-grade re
 
 You can paste your text into the <a href="http://www.hemingwayapp.com/">Hemingway Editor</a> to check readability.
 
-**Content principles**
+**AP Stylebook**
 
 Lexingotnky.gov follows the <a href="https://www.apstylebook.com/">AP Stylebook.</a> All content in the LFUCG content guide has been created using the AP Stylebook.
 
